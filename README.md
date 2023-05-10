@@ -8,3 +8,7 @@ Here are some facts about me:
 - 💬 I love helping people and teaching about everything, so you can ask me about anything
 - 📫 How to reach me: pclemonini-00@hotmail.com
 - 😄 Pronouns: He/His
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroClemonini&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroClemonini&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
